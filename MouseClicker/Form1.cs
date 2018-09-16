@@ -60,7 +60,7 @@ namespace MouseClicker
                 MessageBox.Show("Уровень два пройден!");
                 lvl2.Visible = false;
                 lvl1.Visible = false;
-                numcl.Text = "крч хз, досвидания, блин.."; //шедевр просто..
+                numcl.Text = "крч все, до свидания, блин.."; //шедевр просто..
             }
         }//lvl2 testver
 
